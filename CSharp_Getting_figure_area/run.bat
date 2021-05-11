@@ -1,4 +1,3 @@
-cd build
-libTest.exe
-cd ../
+CLS
+build\libTest.exe
 pause
