@@ -4,3 +4,4 @@
 - Java - Finding shortest path
 - Unity - Movement of object
 - Web - demo
+- SQL - Product categories
