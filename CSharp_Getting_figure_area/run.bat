@@ -1,3 +1,3 @@
 CLS
-build\libTest.exe
+build\LibTest.exe
 pause
